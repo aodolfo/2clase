@@ -1,0 +1,11 @@
+---
+title: "github2clase"
+author: "Adolfo Alarcón"
+format: revealjs
+editor: visual
+---
+
+diapos
+
+```{r}
+```
